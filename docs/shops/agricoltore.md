@@ -22,6 +22,7 @@ Accessibile tramite **/warp Agricoltore**
 - x8 Canna da zucchero Ɣ100.0
 - x16 Uovo Ɣ160.0
 - x16 Bambù Ɣ200.0
+- x1 Zappa Segreta Ɣ20000.0 (Pianta semi)
 
 **VENDI**
 - x64 Semi di zucca Ɣ15.0
